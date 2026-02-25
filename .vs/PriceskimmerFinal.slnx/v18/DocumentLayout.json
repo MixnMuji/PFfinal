@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\models\\domains\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\models\\domains\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\models\\joins\\productretailerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\models\\joins\\productretailerjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\models\\retailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\models\\retailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\priceskimmerfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\priceskimmerfinal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\devlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\devlog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\readme(overview).txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\readme(overview).txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|d:\\coding stuff\\maui_practice\\priceskimmerfinal\\priceskimmerfinal\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{144842C9-3265-7778-F420-A524145F42C9}|PriceskimmerFinal\\PriceskimmerFinal.csproj|solutionrelative:priceskimmerfinal\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\.gitignore",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\.gitignore",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\.gitignore",
+              "RelativeToolTip": "PriceskimmerFinal\\.gitignore",
+              "ViewState": "AgIAAJgBAAAAAAAAAADwv6sBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-25T22:11:09.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Domains\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Models\\Domains\\ShoppingCart.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Domains\\ShoppingCart.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Models\\Domains\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:01:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRetailerJoin.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Joins\\ProductRetailerJoin.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Models\\Joins\\ProductRetailerJoin.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Joins\\ProductRetailerJoin.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Models\\Joins\\ProductRetailerJoin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T21:54:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Retailer.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Retailer.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Models\\Retailer.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Retailer.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Models\\Retailer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T21:38:01.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Models\\Product.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\Product.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T21:34:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\user.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Models\\user.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Models\\user.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Models\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T21:32:32.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\ViewMOdels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\ViewMOdels\\MainViewModel.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\ViewMOdels\\MainViewModel.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\ViewMOdels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T01:05:44.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T01:03:52.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\MainPage.xaml.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T01:03:38.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\App.xaml.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\App.xaml.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T00:41:56.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\MauiProgram.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\MauiProgram.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\MauiProgram.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T00:36:54.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Readme(overview).txt",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Readme(overview).txt",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Readme(overview).txt",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Readme(overview).txt",
+              "RelativeToolTip": "PriceskimmerFinal\\Readme(overview).txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-25T00:32:10.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Devlog.txt",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Devlog.txt",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Devlog.txt",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Devlog.txt",
+              "RelativeToolTip": "PriceskimmerFinal\\Devlog.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-02-25T00:32:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriceskimmerFinal.csproj",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\PriceskimmerFinal.csproj",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\PriceskimmerFinal.csproj",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\PriceskimmerFinal.csproj",
+              "RelativeToolTip": "PriceskimmerFinal\\PriceskimmerFinal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T00:36:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T01:03:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\MainPage.xaml",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\MainPage.xaml",
+              "RelativeToolTip": "PriceskimmerFinal\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T01:15:47.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Services\\LocationService.cs",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Services\\LocationService.cs",
+              "RelativeToolTip": "PriceskimmerFinal\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T01:17:25.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "PriceskimmerFinal\\Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-02-25T00:47:34.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\AppShell.xaml",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\AppShell.xaml",
+              "RelativeToolTip": "PriceskimmerFinal\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-25T00:41:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "PriceskimmerFinal\\Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "D:\\Coding stuff\\Maui_practice\\PriceskimmerFinal\\PriceskimmerFinal\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "PriceskimmerFinal\\Platforms\\Windows\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2026-02-25T00:32:45.047Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

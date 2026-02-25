@@ -1,0 +1,2 @@
+﻿-2/24 added geolocation to get user location on app start up will be used for featrues later
+

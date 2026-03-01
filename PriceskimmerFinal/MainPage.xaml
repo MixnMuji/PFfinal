@@ -13,13 +13,28 @@
                 Aspect="AspectFit"
                 SemanticProperties.Description="dot net bot in a submarine number ten" />
 
+            <SearchBar
+                Placeholder="Serach for Proudcts!"/>
+
             <Label
-                Text="Hello, World!"
+                Text="Set search distance"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
+            <Slider 
+                x:Name="DistanceSlider"
+                   Maximum="500"
+                    ValueChanged="OnSliderValueChanged"
+                
+                />
             <Label
-                Text="Welcome to &#10;.NET Multi-platform App UI"
+                x:Name ="DistanceInMiles"
+                FontSize="18"
+                Text=""
+                />
+
+            <Label
+                Text="test filler"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />

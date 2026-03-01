@@ -1,7 +1,7 @@
 using PriceskimmerFinal.Services;
 
 namespace PriceskimmerFinal.ViewModels;
-
+/*
 public class MainViewModel
 {
     private readonly LocationService _locationService;
@@ -25,4 +25,4 @@ public class MainViewModel
             Longitude = location.Longitude;
         }
     }
-}
+} */

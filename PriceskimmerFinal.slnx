@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="PriceskimmerFinal/PriceskimmerFinal.csproj" />
+  <Project Path="PriceskimmerFinal/PriceskimmerFinal.csproj">
+    <Deploy />
+  </Project>
 </Solution>

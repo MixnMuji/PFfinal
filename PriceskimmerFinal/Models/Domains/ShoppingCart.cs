@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using AndroidX.AppCompat.View.Menu;
+// using AndroidX.AppCompat.View.Menu;
 
-namespace PriceskimmerFinal.Models.Domains
+/*mamespace PriceskimmerFinal.Models.Domains
 {
     internal class ShoppingCart
     {
@@ -11,8 +11,9 @@ namespace PriceskimmerFinal.Models.Domains
         public IReadOnlyList<Product> Proudcts = _products;
             public void add(Product product,int quantity)
         {
-            _products.Add(new Cartiem
+            _products.Add(new Cartiem)
         }
 
     }
 }
+    */

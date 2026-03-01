@@ -12,7 +12,7 @@ namespace PriceskimmerFinal
          
 
             var builder = MauiApp.CreateBuilder();
-            builder.Services.AddSingleton<MainViewModel>();
+           // builder.Services.AddSingleton<MainViewModel>();
             builder.Services.AddSingleton<LocationService>();
             builder
                 .UseMauiApp<App>()

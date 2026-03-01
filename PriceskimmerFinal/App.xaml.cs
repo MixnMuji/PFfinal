@@ -9,8 +9,7 @@ namespace PriceskimmerFinal
         public App()
         {
             InitializeComponent();
-            MainPage = new AppShell();
-            GetLocation();
+           // GetLocation();
         }
         private async void GetLocation()
         {

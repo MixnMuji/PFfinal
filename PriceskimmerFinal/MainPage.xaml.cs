@@ -20,5 +20,12 @@
 
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
+        private void OnSliderValueChanged(object? sender, ValueChangedEventArgs e)
+        {
+            double value = e.NewValue;
+            DistanceInMiles.Text = $"{value:F0} mi";
+        }
+
+        
     }
 }

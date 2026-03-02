@@ -3,3 +3,7 @@
 -2/28 forgot to add last entry so we'll ignore it added slider for future implenation on serach distance, and addedserachbar as well
 the approach is to have the elements on the ui first so I understand the user experiance and from there it will guid the process of what needs to exist.
 remebered how to set limits on data with ones of larger types ie to constrict the float I had the F put after it.
+
+-3/2
+    Today I took a look at how to bind and make main pages with mvvm, it was alright tomomorows goals are to make the db and that's just a to better understand the command since my real
+    query will be more than a search it will be looking through all the proudcts on file.

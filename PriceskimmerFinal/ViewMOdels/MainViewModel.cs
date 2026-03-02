@@ -1,28 +1,31 @@
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
 using PriceskimmerFinal.Services;
+using Xamarin.Google.Crypto.Tink.Shaded.Protobuf;
 
 namespace PriceskimmerFinal.ViewModels;
-/*
-public class MainViewModel
+public class MainViewModel : INotifyPropertyChanged
 {
-    private readonly LocationService _locationService;
+    public event PropertyChangedEventHandler PropertyChanged;
 
-    public double Latitude { get; set; }
-    public double Longitude { get; set; }
+    private string _serachQ;
+    private double _distnace;
 
-    public MainViewModel(LocationService locationService)
+    public string searchQ
     {
-        _locationService = locationService;
-        GetLocation();
-    }
-
-    private async Task GetLocation()
-    {
-        var location = await _locationService.GetLocationAsync();
-
-        if (location != null)
-        {
-            Latitude = location.Latitude;
-            Longitude = location.Longitude;
+        get => _serachQ;  // look into later to figure out how this would work when you have a db
+        set {
+            _serachQ = value;
+            OnPropertyChanged();
         }
     }
-} */
+    public double distance
+    {
+        get => _distnace;
+        set { _distnace = value;
+            OnPropertyChanged();
+                }
+    }
+        public void OnPropertyChanged([CallerMemberName] string name = "") =>
+    PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+}
